@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723340203747",
+    "firebase_url": "https://smarthome-raspy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smarthome-raspy",
+    "storage_bucket": "smarthome-raspy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723340203747:android:a1ae4fd9194825c96a57d6",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723340203747-93e3sdai020gj71vodede641csvpsabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdzaP0tujuaJ9ewAZ1iNjDotjWcrkAVaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723340203747-93e3sdai020gj71vodede641csvpsabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
